@@ -1,0 +1,22 @@
+h1,
+h2 {
+    text-align: left;
+    background-color: black;
+    color: white;
+}
+.chef {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: auto;
+}
+.hello {
+    text-align: center;
+}
+.flavor {
+    font-weight: 550;
+}
+.list {
+    background-color: hsla(240, 60%, 70%, 0.08);
+}
